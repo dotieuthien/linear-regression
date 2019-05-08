@@ -1,7 +1,7 @@
 # Linear-Regression
 In this repo, I implement linear regression for predicting final grade. There are availabel variables belonging to social, gender and study information about students. 
 ## Data structure
-school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
+school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira) \\
 sex - student's sex (binary: 'F' - female or 'M' - male)
 age - student's age (numeric: from 15 to 22)
 address - student's home address type (binary: 'U' - urban or 'R' - rural)
